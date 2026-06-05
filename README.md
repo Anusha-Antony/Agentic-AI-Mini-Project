@@ -34,10 +34,10 @@ An AI-powered endless fact-card feed that generates live cybersecurity insights 
 ## 📸 Screenshots
 
 ### Cybersecurity
-![Home Screen](screenshots/cyber.png)
+![Cybersecurity](cyber.png)
 
 ### Artificial Intelligence
-![Topic Loaded](screenshots/ai.png)
+![Artificial Intelligence](ai.png)
 
 ### Space Exploration
-![Fact Card](screenshots/space.png)
+![Space Exploration](space.png)
