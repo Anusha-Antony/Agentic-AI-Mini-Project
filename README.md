@@ -31,3 +31,13 @@ An AI-powered endless fact-card feed that generates live cybersecurity insights 
 - [Wikipedia-API](https://pypi.org/project/Wikipedia-API/)
 - [Gradio](https://gradio.app)
 - Google Colab
+## 📸 Screenshots
+
+### Cybersecurity
+![Home Screen](screenshots/cyber.png)
+
+### Artificial Intelligence
+![Topic Loaded](screenshots/ai.png)
+
+### Space Exploration
+![Fact Card](screenshots/space.png)
